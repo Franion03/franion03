@@ -65,13 +65,13 @@ Portfolio with automated project data fetching, local asset bundling, and full S
 ---
 
 ## ✍️ Writing
-
+<!-- 
 I write about infrastructure, Kubernetes, and platform engineering on [**dev.to/franion03**](https://dev.to/franion03):
 
 - 🏗 *Building a Kubernetes Home Lab on Raspberry Pi*
 - 🔄 *CI/CD Pipelines That Don't Break at 3 AM*
 - 📐 *Infrastructure as Code: Terraform Patterns at Scale*
-
+-->
 ---
 
 <p align="center">
